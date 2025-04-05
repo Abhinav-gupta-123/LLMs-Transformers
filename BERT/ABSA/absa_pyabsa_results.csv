@@ -1,0 +1,6 @@
+text,aspects,sentiments
+Camera takes excellent photos but battery drains quickly .,"['Camera', 'photos', 'battery']","{'Camera': 'Positive', 'photos': 'Positive', 'battery': 'Negative'}"
+The display colors look washed out in sunlight .,['display colors'],{'display colors': 'Negative'}
+Speakers produce clear audio with good bass .,"['Speakers', 'audio', 'bass']","{'Speakers': 'Positive', 'audio': 'Positive', 'bass': 'Positive'}"
+Charging is fast but the phone heats up .,['Charging'],{'Charging': 'Positive'}
+Design is sleek but screen gets scratched easily .,"['Design', 'screen']","{'Design': 'Positive', 'screen': 'Negative'}"
